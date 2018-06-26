@@ -1,3 +1,18 @@
+/*
+.List-item {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.App-left {
+  float: left;
+  width: 35%;
+}
+.App-right {
+  width: 65%;
+  float: right;
+}
+*/
+
 import React, {Component} from 'react';
 import Axios from 'axios';
 
