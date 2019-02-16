@@ -1,2 +1,2 @@
 # ReactJS_and_RestfulApi
-Implementation of Restful API using ReactJS, ES6 & Restful Api
+Implementation of Restful API using ReactJS & ES6
